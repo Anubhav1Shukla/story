@@ -1,4 +1,4 @@
 hello, I am anubhav.I am professional web developer.
 I have done many projects in my career.
 I have experience in php,mysql,bootstrap,html,css,javascript,ajax,jquery etc.
-I More
+I have also a more skills in web development
